@@ -17,4 +17,4 @@ _ReSharper.Ninject.Extensions.Factory with Silverlight and WP7 Unittesting
 *.user
 *.suo
 *.dotCover
-/src/Ninject.Extensions.Factory.SilverlightTests/Ninject.Extensions.Factory.SilverlightTests.csproj.user
+project.lock.json

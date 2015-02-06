@@ -1,0 +1,10 @@
+{
+	"version": "3.0.1.10",
+	"dependencies": {
+		"Castle.Core": "3.2.0",
+		"Ninject": ""
+	},
+    "frameworks": {
+        "dnx451": { }
+    }
+}
